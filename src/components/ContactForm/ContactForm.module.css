@@ -1,0 +1,37 @@
+.contaiher {
+  width: 300px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.form {
+}
+
+.field {
+  width: 100%;
+  height: 35px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.button {
+  bottom: 0;
+  background-color: lightgrey;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}

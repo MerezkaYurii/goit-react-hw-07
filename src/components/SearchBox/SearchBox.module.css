@@ -1,0 +1,10 @@
+.contaiher {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin: 0 auto;
+}
+.input {
+  width: 100%;
+  height: 35px;
+}
