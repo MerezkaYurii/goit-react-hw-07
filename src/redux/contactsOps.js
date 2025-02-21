@@ -17,6 +17,7 @@ export const fetchData = createAsyncThunk(
   }
 );
 
+
 export const deleteContact = createAsyncThunk(
   'contacts/deleteContact',
   async (id, thunkAPI) => {
